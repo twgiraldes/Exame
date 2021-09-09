@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Adapter\\Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Adapter\\Adapter.csproj",
+        "projectName": "Adapter",
+        "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Adapter\\Adapter.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Adapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\ApplicationDTO\\ApplicationDTO.csproj": {
+                "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\ApplicationDTO\\ApplicationDTO.csproj"
+              },
+              "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\ApplicationDTO\\ApplicationDTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\ApplicationDTO\\ApplicationDTO.csproj",
+        "projectName": "ApplicationDTO",
+        "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\ApplicationDTO\\ApplicationDTO.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\ApplicationDTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Adapter\\Adapter.csproj": {
+                "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Adapter\\Adapter.csproj"
+              },
+              "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\ApplicationDTO\\ApplicationDTO.csproj": {
+                "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\ApplicationDTO\\ApplicationDTO.csproj"
+              },
+              "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thiag\\Desktop\\DCDisputas2207 (1)\\Nova pasta\\Exame\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

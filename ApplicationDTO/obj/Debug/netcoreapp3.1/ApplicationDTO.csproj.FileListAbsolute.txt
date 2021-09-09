@@ -1,0 +1,99 @@
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\b2f00gfs\source\repos\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\projetos\MDR_API_NOVO\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\b2f00gfs\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\thiag\Downloads\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.deps.json
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\bin\Debug\netcoreapp3.1\ApplicationDTO.pdb
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.AssemblyInfo.cs
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.dll
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\ApplicationDTO\obj\Debug\netcoreapp3.1\ApplicationDTO.pdb

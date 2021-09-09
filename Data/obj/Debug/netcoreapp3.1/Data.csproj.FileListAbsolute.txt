@@ -1,0 +1,132 @@
+C:\Users\b2f00gfs\source\repos\Exame\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\b2f00gfs\source\repos\Exame\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\b2f00gfs\source\repos\Exame\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\b2f00gfs\source\repos\Exame\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\b2f00gfs\source\repos\Exame\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\b2f00gfs\source\repos\Exame\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\b2f00gfs\source\repos\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\b2f00gfs\source\repos\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\b2f00gfs\source\repos\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\b2f00gfs\source\repos\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\b2f00gfs\source\repos\Exame\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\b2f00gfs\source\repos\Exame\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\b2f00twg\OneDrive - B2CARD\Área de Trabalho\Arquitetura_nova\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\projetos\MDR_API_NOVO\Exame\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\projetos\MDR_API_NOVO\Exame\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\projetos\MDR_API_NOVO\Exame\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\projetos\MDR_API_NOVO\Exame\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projetos\MDR_API_NOVO\Exame\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projetos\MDR_API_NOVO\Exame\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\projetos\MDR_API_NOVO\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\projetos\MDR_API_NOVO\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\projetos\MDR_API_NOVO\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\projetos\MDR_API_NOVO\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\projetos\MDR_API_NOVO\Exame\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\projetos\MDR_API_NOVO\Exame\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\projetos\dc_disputa_nova_arquitetura\Exame_novaarquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\projetos\dc_conciliacao_nova_arquitetura\Exame\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\b2f00gfs\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\b2f00gfs\OneDrive - B2CARD\Documentos\99 - Guilherme\Exame\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\thiag\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\thiag\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\thiag\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\thiag\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\thiag\Downloads\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\thiag\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\thiag\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\thiag\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\thiag\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\thiag\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\thiag\Downloads\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\thiag\Desktop\Exame2207 (1)\Exame\Exame\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\thiag\Desktop\DCDisputas2207 (1)\DCDisputas\DCDisputas\Data\obj\Debug\netcoreapp3.1\Data.pdb

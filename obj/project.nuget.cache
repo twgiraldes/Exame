@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZfTgQCspz3oX6+C9YjhklTdCOzJocOkUBpbP8ZzCJ9sic81FzQdQtoOY9dDtTxZg+JXDcHdROz4P6qFfYjtgg==",
+  "success": true,
+  "projectFilePath": "C:\\GitLab\\Exame_novaarquitetura\\Exame\\Exame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b2f00tbm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
